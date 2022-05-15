@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-cesium3
+target: cesium
+
+cmds:
+  - cmd: /repo/cesium
