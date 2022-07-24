@@ -2,4 +2,4 @@ project: cesium3
 target: cesium
 
 cmds:
-  - cmd: /repo/cesium
+  - cmd: /cesium
